@@ -1,7 +1,7 @@
 # Task Tracker
 
 A simple command-line task tracker written in C# (.NET 10). It lets you add, update, delete and track tasks from an interactive console. Tasks are saved to a JSON file, so they persist between runs.
-This project is based on the Task Tracker exercise from roadmap.sh.
+This project is based on the Task Tracker exercise from roadmap.sh : https://roadmap.sh/projects/task-tracker.
 
 ## Requirements
 
